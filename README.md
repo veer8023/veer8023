@@ -21,7 +21,7 @@
 
 
 
-![snake gif][(https://github.com/veer8023/veer8023/blob/output/github-snake.svg)]
+![snake gif](https://github.com/veer8023/veer8023/blob/output/github-snake-dark.svg)
 
 
 
